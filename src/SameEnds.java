@@ -12,5 +12,7 @@ public class SameEnds {
             System.out.println("They are not equal");
         }
 
+
+
     }
 }
