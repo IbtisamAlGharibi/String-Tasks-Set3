@@ -5,6 +5,7 @@ public class SumDigits {
         int sum = 0;
 
         for (int i =0; i<str.length()-1;i++){
+          boolean check = Character.isDigit(str.charAt(i));
 
 
         }
