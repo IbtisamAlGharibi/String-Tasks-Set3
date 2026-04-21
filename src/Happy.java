@@ -12,6 +12,8 @@ public class Happy {
         }else {
             happy=false;
             System.out.println(happy);
+
+
         }
 
     }
