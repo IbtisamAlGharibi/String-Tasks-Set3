@@ -11,4 +11,6 @@ public class CountTriple {
         }
         System.out.println(count);
     }
+
+
 }
