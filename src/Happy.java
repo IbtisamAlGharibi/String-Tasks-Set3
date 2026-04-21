@@ -3,5 +3,11 @@ public class Happy {
         String str = "xxggxx";
         boolean happy = true;
 
+        if (happy ==true){
+            for (int i =0; i<str.length();i++){
+
+            }
+        }
+
     }
 }
