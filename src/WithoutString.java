@@ -10,5 +10,7 @@ public class WithoutString {
             }
         }
         System.out.println(base);
+
+
     }
 }
