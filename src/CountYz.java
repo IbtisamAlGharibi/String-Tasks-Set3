@@ -6,6 +6,10 @@ public class CountYz {
         int z = str.indexOf("z");
         int y = str.indexOf("y");
 
+        for (int i=0; i<str.length();i++){
+
+            }
+        }
 
 
     }
