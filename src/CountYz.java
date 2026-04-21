@@ -3,6 +3,10 @@ public class CountYz {
         String str = "fez day";
 
         int count = 0;
+        int z = str.indexOf("z");
+        int y = str.indexOf("y");
+
+
 
     }
 }
