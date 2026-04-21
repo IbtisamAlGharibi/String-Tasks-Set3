@@ -3,6 +3,10 @@ public class WithoutString {
         String base= "Hello there";
         String remove = "llo";
 
+        for (int i=0; i<base.length();i++){
+
+        }
+
 
 
     }
