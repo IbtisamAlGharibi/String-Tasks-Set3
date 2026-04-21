@@ -14,5 +14,11 @@ public class EqualIsNot {
             }
         }
 
+        if (countNot == countIs){
+            System.out.println("True");
+        }else {
+            System.out.println("False");
+        }
+
     }
 }
