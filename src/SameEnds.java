@@ -6,8 +6,11 @@ public class SameEnds {
         String end = str.substring(str.length()-2,str.length());
 
 
-
-
+        if (start.equals(end)){
+            System.out.println(start);
+        }else {
+            System.out.println("They are not equal");
+        }
 
     }
 }
