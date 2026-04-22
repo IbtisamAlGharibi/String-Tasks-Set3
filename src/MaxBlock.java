@@ -18,6 +18,6 @@ public class MaxBlock {
             }
         }
 
-
+        System.out.println(max);
     }
 }
