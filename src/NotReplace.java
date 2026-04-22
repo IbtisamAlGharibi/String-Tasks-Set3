@@ -14,6 +14,7 @@ public class NotReplace {
             result = result+ str.charAt(i);
 
         }
+        System.out.println(result);
 
     }
 }
