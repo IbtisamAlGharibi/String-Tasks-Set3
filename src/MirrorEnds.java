@@ -7,6 +7,8 @@ public class MirrorEnds {
 
         if (str.charAt(i) == str.charAt(str.length()-1-i)){
             result = result+str.charAt(i);
+
+
         }
         }
 
