@@ -3,6 +3,10 @@ public class SumNumbers {
         String str = "abc123xyz";
         int sum = 0;
 
+        for (int i =0; i<str.length();i++){
+
+
+        }
 
     }
 }
