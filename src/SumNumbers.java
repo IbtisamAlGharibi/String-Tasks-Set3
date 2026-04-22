@@ -5,8 +5,11 @@ public class SumNumbers {
 
         for (int i =0; i<str.length();i++){
             boolean check = Character.isDigit(str.charAt(i));
-
+            if (check==true){
+               sum++;
+            }
         }
+
 
     }
 }
