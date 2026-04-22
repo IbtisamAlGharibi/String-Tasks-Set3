@@ -3,5 +3,10 @@ public class NotReplace {
 
         String str= "is test";
 
+        for (int i=0; i <str.length();i++){
+
+
+        }
+
     }
 }
