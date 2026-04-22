@@ -9,7 +9,6 @@ public class SumNumbers {
                sum++;
             }
         }
-
-
+        System.out.println(sum);
     }
 }
