@@ -9,7 +9,10 @@ public class NotReplace {
 
             if (str.charAt(i) == 'i' && str.charAt(i+1) == 's'){
                result = "is not" ;
+                i=+2;
             }
+
+
 
             result = result+ str.charAt(i);
 
